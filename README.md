@@ -1,0 +1,1 @@
+Fisrt step to dockerfile
