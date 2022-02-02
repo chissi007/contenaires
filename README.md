@@ -1,1 +1,1 @@
-Fisrt step to dockerfile
+First step to dockerfile
